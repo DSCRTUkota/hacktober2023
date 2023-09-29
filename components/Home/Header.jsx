@@ -2,9 +2,9 @@ import React from 'react';
 
 function Header() {
   return (
-    <div className='flex flex-col justify-center items-center py-[10vh]'>
+    <div className='flex flex-col justify-center items-center py-[10vh] text-center'>
       <div className='text-4xl font-semibold'>Contributor Profiles</div>
-      <div className='text-base mt-2 text-center'>
+      <div className='text-base mt-2'>
         We ❤️ Open Source, Let&apos;s make your first contribution today! <br />{' '}
         Go to{' '}
         <a

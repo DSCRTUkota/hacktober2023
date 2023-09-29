@@ -1,19 +1,22 @@
 'use client';
-import React, { useEffect } from 'react';
+import React from 'react';
 
 import ProfileCard from './ProfileCard';
 
 import profiles from '@/contributors/profiles.json';
 
 export default function RenderProfiles() {
-  const profileData = {
-    name: 'Pushkar Yadav',
-    description: 'Dev | Lead @GDSC-RTU',
-    github: 'pushkarydv',
-    twitter: 'pushkaryadavin',
-    linkedin: 'pushkarydv',
-    portfolio: 'pushkaryadav.in',
-  };
+
+  // Sample JSON data to cosntruct a profile card
+
+  // const profileData = {
+  //   name: 'Pushkar Yadav',
+  //   description: 'Dev | Lead @GDSC-RTU',
+  //   github: 'pushkarydv',
+  //   twitter: 'pushkaryadavin',
+  //   linkedin: 'pushkarydv',
+  //   portfolio: 'pushkaryadav.in',
+  // };
 
   return (
     <div>
