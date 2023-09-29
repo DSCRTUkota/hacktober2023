@@ -25,7 +25,7 @@ function Header() {
 
       <Modal toggle={toggleInstructions} isOpen={isInstructionsOpen}>
 
-      <div className='text-lg font-bold'>What's Purpose of this repo?</div>
+      <div className='text-lg font-bold'>What&apos;s Purpose of this repo?</div>
       <p>
         This is a repository to help beginners get started with Open Source
         during{' '}
