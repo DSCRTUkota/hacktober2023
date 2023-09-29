@@ -31,3 +31,13 @@ Here is a quick and painless way to contribute to this project:
 ## Repo maintainers
 
 [`Pushkar Yadav`](https://github.com/pushkarydv)  
+
+## GDSC Partners
+
+[`GDSC RTU`](https://gdsc.community.dev/rajasthan-technical-university-kota/)
+[`GDSC GBU`](https://gdsc.community.dev/gautam-buddha-university-greater-noida/)
+[`GDSC SDIET`](https://gdsc.community.dev/satyug-darshan-institute-of-engineering-technology/)
+[`GDSC JNU`](https://gdsc.community.dev/jawaharlal-nehru-university-delhi/)
+[`GDSC ACEM`](https://gdsc.community.dev/jawaharlal-nehru-university-delhi/)
+[`GDSC RCET`](https://gdsc.community.dev/jawaharlal-nehru-university-delhi/)
+[`GDSC FETJU`](https://gdsc.community.dev/fet-jain-university-bengaluru/)
