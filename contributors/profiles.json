@@ -6,5 +6,34 @@
         "linkedin": "pushkarydv",
         "portfolio": "https://pushkaryadav.in",
         "description": "Dev | Lead @GDSC-RTU"
+    },
+	{
+        "name": "Tushar Choudhary",
+        "github": "tushar-c23",
+        "twitter": "tushar_c_",
+        "linkedin": "tushar-c23"
+    },
+    {
+        "name": "Devanshi Mohan",
+        "twitter": "devansshhhiiii",
+        "linkedin": "devanshi-mohan-425240267"
+    },
+    {
+        "name": "Prince Gupta",
+        "twitter": "pr1ncegupta",
+        "github": "pr1ncegupta",
+        "linkedin": "pr1ncegupta"
+    },
+    {
+        "name": "Nikhil Shuklaa",
+        "twitter": "Nikhil_shuklaa",
+        "github": "nikhil-shuklaa",
+        "linkedin": "nikhil-shuklaa"
+    },
+    {
+        "name": "Oshi Raghav",
+        "twitter": "xoshiraghavx",
+        "github": "xoshiraghavx",
+        "linkedin": "oshiraghav"
     }
 ]
