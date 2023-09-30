@@ -15,7 +15,7 @@ function ProfileCard({ profileData }) {
       <div className='relative pt-10 pb-2 px-2 bg-gray-950 text-white rounded-md'>
         {/* Profile Image : GitHub logo */}
         <img
-          src={`https://github.com/${profileData?.github}.png`}
+          src={`https://github.com/${profileData?.github ? profileData?.github : "ghost"}.png`}
           alt='profile'
           className='absolute ring-4 ring-gray-950 -top-8 h-16  rounded-full left-1/2 -translate-x-1/2'
         />
@@ -23,7 +23,7 @@ function ProfileCard({ profileData }) {
         {/* Profile Content */}
         <div className='text-center'>
           <div className='text-lg font-semibold'>{profileData.name}</div>
-          <div className='text-sm font-medium'>{profileData.description}</div>
+          <div className='text-sm font-medium'>{profileData?.description ? profileData?.description : "</>"}</div>
 
           {/* Any Maintainer Please use chaining and check for fallbacks for adding New Features */}
           <div className='flex justify-center items-center gap-2 text-2xl my-2'>
