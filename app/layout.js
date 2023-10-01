@@ -6,6 +6,7 @@ const customFont = Karla({ subsets: ['latin'] });
 
 // For SEO
 export const metadata = {
+  icon: 'logo.png',
   title: 'Hacktoberfest 2023',
   description:
     'Hey this project is from collab of 7 GDSCs from India. Our mission is to make each and every person associated with us able to make their first step towards open source.',
