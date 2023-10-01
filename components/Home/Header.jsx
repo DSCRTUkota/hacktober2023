@@ -48,12 +48,12 @@ function Header() {
         <br />
         Go to{' '}
         <a
-          href='https://github.com/pushkarydv/hacktober2023/'
+          href='https://github.com/DSCRTUkota/hacktober2023/'
           className='underline underline-offset-2 text-sky-600'
           target='_blank'
           rel='noopener noreferrer'
         >
-          @pushkarydv/hacktober2023
+          @DSCRTUkota/hacktober2023
         </a>{' '}
         and make a small change adding your profile into
         contributors/profiles.json and make a PR.
