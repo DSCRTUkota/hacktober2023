@@ -14,6 +14,7 @@
         "linkedin": "tushar-c23",
 	"description": "Lead GDSC-JNU"
     },
+
     {
         "name": "Devanshi Mohan",
         "twitter": "devansshhhiiii",
@@ -111,6 +112,14 @@
         "linkedin": "sahil-arora-472415209",
         "description": "Flutter and ML Enthusiast"
     },
+    {
+       "name": "Jayesh Mehta",
+       "github": "Jayesh3502",
+       "Linkedin": "jayesh-mehta03052002",
+       "portfolio": "https://jayesh3502.github.io/portfolio.github.io/",
+       "description": "Frontend-Developer"
+    },
+
     {
 	 "name" : "DSC",
 	 "github" : "dscrtukota",
