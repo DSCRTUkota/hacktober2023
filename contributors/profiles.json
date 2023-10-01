@@ -7,7 +7,7 @@
         "portfolio": "https://pushkaryadav.in",
         "description": "Dev | Lead @GDSC-RTU"
     },
-	{
+	  {
         "name": "Tushar Choudhary",
         "github": "tushar-c23",
         "twitter": "tushar_c_",
@@ -35,6 +35,13 @@
         "twitter": "xoshiraghavx",
         "github": "xoshiraghavx",
         "linkedin": "oshiraghav"
+    },
+    {
+        "name": "Chandana Yalaka",
+        "github": "CHANDANA333",
+        "twitter": "@CYalaka",
+        "linkedin": "Chandana Yalaka",
+        "description": "Front End Developer" 
     },
     {
         "name": "Suket Kamboj",
