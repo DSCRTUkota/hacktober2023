@@ -40,6 +40,13 @@
         "github": "xoshiraghavx",
         "linkedin": "oshiraghav",
 	"description": "Lead GDSC-GBU"
+    }, 
+    {
+        "name": "Anurag Shrivastava",
+        "twitter": "shriv_anurag",
+        "github": "Shrivastava-Anurag",
+        "linkedin": "shriv_anurag",
+	"description": "Lead GDSC-RCET"
     },
     {
         "name": "Chandana Yalaka",
@@ -77,13 +84,20 @@
         "description": "Network & Backend Enthusiast"
     },
     {
-	"name": "Shail Patel",
-	"github": "shail-patel-321",
-	"twitter": "shailpatel1794",
-	"linkdedin": "shailpatel",
-	"description": "Full Stack Developer"
+        "name": "Shail Patel",
+        "github": "shail-patel-321",
+        "twitter": "shailpatel1794",
+        "linkdedin": "shailpatel",
+        "description": "Full Stack Developer"
     },
     {
+        "name": "Romar Desabille",
+        "github": "romar22",
+        "twitter": "romar01x",
+        "linkdedin": "Romar Desabille",
+        "description": "Frontend Developer"
+   },
+   {
         "name":"Sruthik Koneti",
         "github":"sruthikkoneti",
         "linkedin":"sruthik-koneti",
@@ -91,10 +105,22 @@
         "description":"Full Stack Developer"
     },
     {
-        "name": "Muhammad Anus",
+        "name": "Sahil Arora",
+        "github": "TSxSAHIL",
+        "twitter": "tssahil2001",
+        "linkedin": "sahil-arora-472415209",
+        "description": "Flutter and ML Enthusiast"
+    },
+  {
+     "name": "Muhammad Anus",
         "twitter": "anasafzal779",
         "github": "Muhammad-Anus-Developer",
         "linkedin": "muhammed-anus",
 	    "description": "Full Stack Developer"
+  },
+    {
+	 "name" : "DSC",
+	 "github" : "dscrtukota",
+	 "twitter" : "dsc_rtu"
     }
 ]
