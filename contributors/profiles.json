@@ -112,9 +112,14 @@
         "description": "Flutter and ML Enthusiast"
     },
     {
+	 "name" : "DSC",
+	 "github" : "dscrtukota",
+	 "twitter" : "dsc_rtu"
+    },
+    {
         "name":"Shashank Shekhar",
-        "github": "Shashank-Shekharr",
-        "linkedin":"shashaaankkkkk",
+        "github":"Shashank-Shekharr",
+        "linkdedin":"shashaaankkkkk",
         "description":"Backend End Developer"
     }
 ]
