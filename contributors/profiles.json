@@ -115,5 +115,10 @@
 	 "name" : "DSC",
 	 "github" : "dscrtukota",
 	 "twitter" : "dsc_rtu"
+    },
+    {
+	 "name" : "GDSC FET JU",
+	 "github" : "dsc-fetju",
+	 "twitter" : "gdscfetju"
     }
 ]
