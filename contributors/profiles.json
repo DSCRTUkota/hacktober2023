@@ -115,5 +115,12 @@
 	 "name" : "DSC",
 	 "github" : "dscrtukota",
 	 "twitter" : "dsc_rtu"
+    },
+    {
+	"name": "Kalyanam Pranay",
+        "github": "PranayKalyanam",
+        "twitter": "KalyanamPr58962",
+        "linkedin": "pranay-kalyanam-22bb9b176",
+        "description": "Front-End Developer"
     }
 ]
