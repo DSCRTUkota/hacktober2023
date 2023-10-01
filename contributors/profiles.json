@@ -115,5 +115,10 @@
 	 "name" : "DSC",
 	 "github" : "dscrtukota",
 	 "twitter" : "dsc_rtu"
+    },
+    {
+	 "name" : "Yash Karecha",
+	 "github" : "coeusyk",
+	 "description" : "AI/ML Enthusiast"
     }
 ]
