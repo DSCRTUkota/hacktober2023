@@ -110,5 +110,10 @@
         "twitter": "tssahil2001",
         "linkedin": "sahil-arora-472415209",
         "description": "Flutter and ML Enthusiast"
+    },
+    {
+	 "name" : "DSC",
+	 "github" : "dscrtukota",
+	 "twitter" : "dsc_rtu"
     }
 ]
