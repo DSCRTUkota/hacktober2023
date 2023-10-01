@@ -1,74 +1,73 @@
 [
-    {
-        "name": "Pushkar Yadav",
-        "github": "pushkarydv",
-        "twitter": "pushkaryadavin",
-        "linkedin": "pushkarydv",
-        "portfolio": "https://pushkaryadav.in",
-        "description": "Dev | Lead GDSC-RTU"
-    },
-	  {
-        "name": "Tushar Choudhary",
-        "github": "tushar-c23",
-        "twitter": "tushar_c_",
-        "linkedin": "tushar-c23",
-	"description": "Lead GDSC-JNU"
-    },
-    {
-        "name": "Devanshi Mohan",
-        "twitter": "devansshhhiiii",
-        "linkedin": "devanshi-mohan-425240267",
-	"description": "Lead GDSC-ACEM"
-    },
-    {
-        "name": "Prince Gupta",
-        "twitter": "pr1ncegupta",
-        "github": "pr1ncegupta",
-        "linkedin": "pr1ncegupta",
-	"description": "Lead GDSC-FETJU"
-    },
-    {
-        "name": "Nikhil Shuklaa",
-        "twitter": "Nikhil_shuklaa",
-        "github": "nikhil-shuklaa",
-        "linkedin": "nikhil-shuklaa",
-	"description": "Lead GDSC-SDIET"
-    },
-    {
-        "name": "Oshi Raghav",
-        "twitter": "xoshiraghavx",
-        "github": "xoshiraghavx",
-        "linkedin": "oshiraghav",
-	"description": "Lead GDSC-GBU"
-    },
-    {
-        "name": "Chandana Yalaka",
-        "github": "CHANDANA333",
-        "twitter": "@CYalaka",
-        "linkedin": "Chandana Yalaka",
-        "description": "Front End Developer" 
-    },
-    {
-        "name": "Suket Kamboj",
-        "github": "Sookeyy-12",
-        "linkedin": "suket-kamboj-212416255",
-        "portfolio": "https://sookeyy-12.github.io",
-        "description": "AI and Open Source Enthusiast"
-    },
-    {
-        "name": "Keshav Jindal",
-        "github": "Keshavjindall",
-        "twitter": "Keshav_jindal14",
-        "linkedin": "keshavjindal14",
-        "description": "Backend End Developer"
-    }
+  {
+    "name": "Pushkar Yadav",
+    "github": "pushkarydv",
+    "twitter": "pushkaryadavin",
+    "linkedin": "pushkarydv",
+    "portfolio": "https://pushkaryadav.in",
+    "description": "Dev | Lead GDSC-RTU"
+  },
+  {
+    "name": "Tushar Choudhary",
+    "github": "tushar-c23",
+    "twitter": "tushar_c_",
+    "linkedin": "tushar-c23",
+    "description": "Lead GDSC-JNU"
+  },
+  {
+    "name": "Devanshi Mohan",
+    "twitter": "devansshhhiiii",
+    "linkedin": "devanshi-mohan-425240267",
+    "description": "Lead GDSC-ACEM"
+  },
+  {
+    "name": "Prince Gupta",
+    "twitter": "pr1ncegupta",
+    "github": "pr1ncegupta",
+    "linkedin": "pr1ncegupta",
+    "description": "Lead GDSC-FETJU"
+  },
+  {
+    "name": "Nikhil Shuklaa",
+    "twitter": "Nikhil_shuklaa",
+    "github": "nikhil-shuklaa",
+    "linkedin": "nikhil-shuklaa",
+    "description": "Lead GDSC-SDIET"
+  },
+  {
+    "name": "Oshi Raghav",
+    "twitter": "xoshiraghavx",
+    "github": "xoshiraghavx",
+    "linkedin": "oshiraghav",
+    "description": "Lead GDSC-GBU"
+  },
+  {
+    "name": "Chandana Yalaka",
+    "github": "CHANDANA333",
+    "twitter": "@CYalaka",
+    "linkedin": "Chandana Yalaka",
+    "description": "Front End Developer"
+  },
+  {
+    "name": "Suket Kamboj",
+    "github": "Sookeyy-12",
+    "linkedin": "suket-kamboj-212416255",
+    "portfolio": "https://sookeyy-12.github.io",
+    "description": "AI and Open Source Enthusiast"
+  },
+  {
+    "name": "Keshav Jindal",
+    "github": "Keshavjindall",
+    "twitter": "Keshav_jindal14",
+    "linkedin": "keshavjindal14",
+    "description": "Backend End Developer"
+  },
 
-    {
-        "name": "Kartikay",
-        "github": "kartikay-kc",
-        "Twitter": "@kartikay_kc",
-        "linkedin": "Kartikay Teotia",
-        "description": "Front End Developer"
-        
-    }
+  {
+    "name": "Kartikay",
+    "github": "kartikay-kc",
+    "twitter": "@kartikay_kc",
+    "linkedin": "Kartikay Teotia",
+    "description": "Front End Developer"
+  }
 ]
