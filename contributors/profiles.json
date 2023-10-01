@@ -70,11 +70,20 @@
         "description": "Full Stack Developer"
     },
     {
+      
         "name": "Ashwin V Kumar",
         "github": "github-ashwin",
         "twitter": "callmeashwin",
         "linkedin": "Ashwin V Kumar",
         "description": "Full-Stack Web Developer",
         "portfolio": "https://bit.ly/ppfl-ashwin"
+    },
+   {
+        "name": "Anish Araz",
+        "github": "anisharaz",
+        "twitter": "AnishAraz",
+        "linkedin": "anisharaz",
+        "description": "Network & Backend Enthusiast"
+
     }
 ]
