@@ -103,5 +103,12 @@
         "linkedin":"sruthik-koneti",
         "twitter":"sruthik042",
         "description":"Full Stack Developer"
-   }
+    },
+    {
+        "name": "Sahil Arora",
+        "github": "TSxSAHIL",
+        "twitter": "tssahil2001",
+        "linkedin": "sahil-arora-472415209",
+        "description": "Flutter and ML Enthusiast"
+    }
 ]
