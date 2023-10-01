@@ -110,5 +110,13 @@
         "twitter": "tssahil2001",
         "linkedin": "sahil-arora-472415209",
         "description": "Flutter and ML Enthusiast"
+    },
+
+    {
+        "name": "Kartikay",
+        "github": "kartikay-kc",
+        "twitter": "kartikay_kc",
+        "linkedin": "Kartikay Teotia",
+        "description": "Front End Developer"
     }
 ]
