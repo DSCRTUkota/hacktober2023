@@ -62,6 +62,7 @@
         "linkedin": "keshavjindal14",
         "description": "Backend End Developer"
     },
+
     
     {
         "name": "Mukul Rana",
@@ -69,5 +70,13 @@
         "linkedin": "mukul-webdev",
         "portfolio": "https://mukul-rana.netlify.app/",
         "description": "Front End Developer"
+=======
+    {
+        "name": "Harsh Shukla",
+        "github": "harshhgithub",
+        "twitter": "harshhshuklaa",
+        "linkedin": "harshshukla11",
+        "description": "Full Stack Developer"
+
     }
 ]
