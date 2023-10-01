@@ -112,10 +112,15 @@
         "description": "Flutter and ML Enthusiast"
     },
     {
+	 "name" : "DSC",
+	 "github" : "dscrtukota",
+	 "twitter" : "dsc_rtu"
+    },
+  {
         "name": "Surya Kanta Ghosh",
         "github": "atnakayrus",
         "linkedin": "surya-kanta-ghosh-68611a232",
         "description": "Android Developer",
 	"portfolio":"https://atnakayrus.github.io/"
-    }
+  }
 ]
