@@ -115,5 +115,13 @@
 	 "name" : "DSC",
 	 "github" : "dscrtukota",
 	 "twitter" : "dsc_rtu"
+    },
+    {
+	 "name":"Aditya Kumar",
+	 "github":"coderAdityaKumar",
+	 "twitter":"me_aditya_kumar",
+	 "linkedIn":"aditya-kumar-36118a251",
+	 "description":"Java Developer"
     }
+		
 ]
