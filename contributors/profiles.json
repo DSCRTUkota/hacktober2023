@@ -61,5 +61,13 @@
         "twitter": "Keshav_jindal14",
         "linkedin": "keshavjindal14",
         "description": "Backend End Developer"
-    }
+    },
+    
+    {
+        "name": "Mukul Rana",
+        "github": "mukulpythondev",
+        "linkedin": "mukul-webdev",
+        "portfolio": "https://mukul-rana.netlify.app/",
+        "description": "Front End Developer"
+    },
 ]
