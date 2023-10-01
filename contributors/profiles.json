@@ -89,5 +89,12 @@
         "linkedin":"sruthik-koneti",
         "twitter":"sruthik042",
         "description":"Full Stack Developer"
+    },
+    {
+        "name": "Muhammad Anus",
+        "twitter": "anasafzal779",
+        "github": "Muhammad-Anus-Developer",
+        "linkedin": "muhammed-anus",
+	    "description": "Full Stack Developer"
     }
 ]
