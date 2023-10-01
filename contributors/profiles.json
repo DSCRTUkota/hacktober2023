@@ -115,5 +115,12 @@
 	 "name" : "DSC",
 	 "github" : "dscrtukota",
 	 "twitter" : "dsc_rtu"
+    },
+    {
+        "name": "Thinley",
+        "github": "EarthIsHeaven",
+        "twitter": "Thinley",
+        "linkedin": "Thinley Lama",
+        "description": "Web developer"
     }
 ]
