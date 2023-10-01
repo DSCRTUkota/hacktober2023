@@ -115,5 +115,13 @@
 	 "name" : "DSC",
 	 "github" : "dscrtukota",
 	 "twitter" : "dsc_rtu"
+    },
+    {
+        "name": "Harsh Vardhan Pandey",
+        "github": "geekyharsh05",
+        "twitter": "HarshVa82884493",
+        "linkedin": "harsh-vardhan-pandey05",
+        "portfolio": "https://aboutharsh.vercel.app/",
+        "description": "Open Source & Backend Enthusiast"
     }
 ]
