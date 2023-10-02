@@ -71,6 +71,13 @@
         "description": "Backend End Developer"
     },
     {
+        "name": "Mukul Rana",
+        "github": "mukulpythondev",
+        "linkedin": "mukul-webdev",
+        "portfolio": "https://mukul-rana.netlify.app/",
+        "description": "Front End Developer"
+    },
+    {
         "name": "Harsh Shukla",
         "github": "harshhgithub",
         "twitter": "harshhshuklaa",
@@ -127,9 +134,9 @@
         "description": "AI & ML Enthusiast"
     },
     {
-	 "name" : "DSC RTU",
-	 "github" : "dscrtukota",
-	 "twitter" : "dsc_rtu"
+       "name" : "DSC RTU",
+       "github" : "dscrtukota",
+       "twitter" : "dsc_rtu"
     },
     {
         "name" : "Virej Dasani",
