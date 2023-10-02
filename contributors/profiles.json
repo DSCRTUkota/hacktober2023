@@ -231,5 +231,11 @@
        "name" : "Raksha P",
        "github" : "RP2025",
        "twitter" : "philomath128"
+    },
+    {
+	"name" : "S.Mohan Kumar",
+        "github" : "Sure-Mohan-Kumar",
+        "linkedin": "sure-mohan-kumar-a91056250",
+        "description": "Aspiring AI Engineer"
     }
 ]
