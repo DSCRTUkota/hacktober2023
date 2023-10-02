@@ -137,7 +137,14 @@
         "linkedin": "sahil-arora-472415209",
         "description": "Flutter and ML Enthusiast"
     },
-    {
+  {
+        "name": "Surya Kanta Ghosh",
+        "github": "atnakayrus",
+        "linkedin": "surya-kanta-ghosh-68611a232",
+        "description": "Android Developer",
+	"portfolio":"https://atnakayrus.github.io/"
+  },
+  {
         "name": "Kartikay",
         "github": "kartikay-kc",
         "twitter": "kartikay_kc",
