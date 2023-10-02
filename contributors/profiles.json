@@ -1,19 +1,21 @@
 [
+    
     {
         "name": "Pushkar Yadav",
         "github": "pushkarydv",
         "twitter": "pushkaryadavin",
         "linkedin": "pushkarydv",
         "portfolio": "https://pushkaryadav.in",
-        "description": "Dev | Lead GDSC-RTU"
+        "description": "Dev | Lead GDSC RTU"
     },
-	  {
+    {
         "name": "Tushar Choudhary",
         "github": "tushar-c23",
         "twitter": "tushar_c_",
         "linkedin": "tushar-c23",
-	"description": "Lead GDSC-JNU"
+	"description": "Dev | Lead GDSC-JNU"
     },
+
     {
         "name": "Devanshi Mohan",
         "twitter": "devansshhhiiii",
@@ -70,6 +72,13 @@
         "description": "Backend End Developer"
     },
     {
+        "name": "Mukul Rana",
+        "github": "mukulpythondev",
+        "linkedin": "mukul-webdev",
+        "portfolio": "https://mukul-rana.netlify.app/",
+        "description": "Front End Developer"
+    },
+    {
         "name": "Harsh Shukla",
         "github": "harshhgithub",
         "twitter": "harshhshuklaa",
@@ -77,6 +86,15 @@
         "description": "Full Stack Developer"
     },
     {
+      
+        "name": "Ashwin V Kumar",
+        "github": "github-ashwin",
+        "twitter": "callmeashwin",
+        "linkedin": "Ashwin V Kumar",
+        "description": "Full-Stack Web Developer",
+        "portfolio": "https://bit.ly/ppfl-ashwin"
+    },
+   {
         "name": "Anish Araz",
         "github": "anisharaz",
         "twitter": "AnishAraz",
@@ -103,7 +121,16 @@
         "linkedin":"sruthik-koneti",
         "twitter":"sruthik042",
         "description":"Full Stack Developer"
-    },
+
+   },
+   {
+    "name":"Tejas Bhovad",
+    "github":"TejasBhovad",
+    "linkedin":"tejas-bhovad",
+    "twitter":"tejas_bhovad",
+    "description":"Tailwind and NextJS Dev",
+    "portfolio":"https://tejasbhovad.vercel.app"
+ },
     {
         "name": "Sahil Arora",
         "github": "TSxSAHIL",
@@ -119,6 +146,78 @@
     {
 	 "name" : "GDSC FET JU",
 	 "github" : "dsc-fetju",
-	 "twitter" : "gdscfetju"
+	 "twitter" : "gdscfetju" 
+    },
+    {
+        "name": "Danish Mobiya",
+        "github": "dakshmobiya12",
+        "twitter": "DanishMobiya",
+        "linkedin": "danish-mobiya-9343971b8",
+        "description": "Android developer and hacker"
+    },
+	{
+        "name": "Utkarsh kesharwani",
+        "github": "utkars3",
+        "twitter": "utkarsh",
+        "linkedin": "utkars3",
+        "portfolio": "https://utkars3.github.io/BIO/",
+        "description": "Full stack developer"
+	},
+  {
+        "name": "Surya Kanta Ghosh",
+        "github": "atnakayrus",
+        "linkedin": "surya-kanta-ghosh-68611a232",
+        "description": "Android Developer",
+	"portfolio":"https://atnakayrus.github.io/"
+  },
+  {
+        "name": "Kartikay",
+        "github": "kartikay-kc",
+        "twitter": "kartikay_kc",
+        "linkedin": "Kartikay Teotia",
+        "description": "Front End Developer"
+    },
+    {
+	"name": "Mohammad Sahil",
+	"github": "mdsahilnoob",
+	"twitter": "mdsahil_noob",
+	"linkedin": "md-sahil-3917b4284",
+	"description": "Open Source Enthusiast"
+    },
+    {
+        "name": "K M Mohan",
+        "github": "mohan89en",
+        "twitter": "mohanz_10",
+        "linkedin": "Mohan-K-M",
+        "description": "ML Enthusiast"
+    },
+  {
+        "name": "Muhammad Anus",
+        "twitter": "anasafzal779",
+        "github": "Muhammad-Anus-Developer",
+        "linkedin": "muhammed-anus",
+        "description": "Full Stack Developer"
+    },
+   {
+       "name": "Jayesh Mehta",
+       "github": "Jayesh3502",
+       "Linkedin": "jayesh-mehta03052002",
+       "portfolio": "https://jayesh3502.github.io/portfolio.github.io/",
+       "description": "Frontend-Developer"
+    },
+    {
+        "name": "Thanish C",
+        "github": "heytanix",
+        "twitter": "heytanix",
+        "linkdedin": "heytanix",
+        "description": "AI & ML Enthusiast"
+    },
+    {
+        "name" : "Virej Dasani",
+        "github" : "virejdasani",
+        "twitter" : "virejdasani",
+        "linkedin": "virej-dasani-b64470209",
+        "description": "Full Stack Developer"
     }
+		
 ]
