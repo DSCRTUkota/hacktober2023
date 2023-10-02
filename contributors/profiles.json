@@ -119,9 +119,14 @@
        "portfolio": "https://jayesh3502.github.io/portfolio.github.io/",
        "description": "Frontend-Developer"
     },
-
+        "name": "Thanish C",
+        "github": "heytanix",
+        "twitter": "heytanix",
+        "linkdedin": "heytanix",
+        "description": "AI & ML Enthusiast"
+    },
     {
-	 "name" : "DSC",
+	 "name" : "DSC RTU",
 	 "github" : "dscrtukota",
 	 "twitter" : "dsc_rtu"
     }
