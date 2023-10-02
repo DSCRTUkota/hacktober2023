@@ -144,5 +144,12 @@
         "twitter" : "virejdasani",
         "linkedin": "virej-dasani-b64470209",
         "description": "Full Stack Developer"
-    }
+    },
+    {
+        "name" : "Aman maurya",
+        "github" : "AmanAssassin",
+        "twitter" : "aman_maurya_",
+        "linkedin": "aman-maurya73",
+        "description": "Frontend Developer"
+    },
 ]
