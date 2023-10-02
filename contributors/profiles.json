@@ -150,6 +150,16 @@
 	 "name" : "DSC",
 	 "github" : "dscrtukota",
 	 "twitter" : "dsc_rtu"
+
+    },
+	{
+        "name": "Om Mishra",
+        "github": "om-mishra7",
+        "twitter": "om_mishra7",
+        "linkedin": "om-mishra7",
+        "portfolio": "https://projectrexa.dedyn.io/",
+        "description": "Budding Full Stack Developer"
+
   },
   {
         "name" : "Atharva Deshmukh",
