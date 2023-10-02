@@ -152,7 +152,18 @@
         "description": "Front End Developer"
     },
     {
-
+	"name": "Mohammad Sahil",
+	"github": "mdsahilnoob",
+	"twitter": "mdsahil_noob",
+	"linkedin": "md-sahil-3917b4284",
+	"description": "Open Source Enthusiast"
+    },
+    {
+	 "name" : "DSC",
+	 "github" : "dscrtukota",
+	 "twitter" : "dsc_rtu"
+    },
+  {
         "name": "Muhammad Anus",
         "twitter": "anasafzal779",
         "github": "Muhammad-Anus-Developer",
@@ -187,4 +198,5 @@
         "linkedin": "aman-maurya73",
         "description": "Frontend Developer"
     },
+    
 ]
