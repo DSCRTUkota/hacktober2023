@@ -218,6 +218,13 @@
         "twitter" : "virejdasani",
         "linkedin": "virej-dasani-b64470209",
         "description": "Full Stack Developer"
+    },
+    {
+        "name":"Archit Srivastava",
+        "github":"archit2311",
+        "linkedin":"archit2311",
+        "portfolio":"https://portfolio-website-delta-one.vercel.app/",
+        "description":"Full Stack Developer"
     }
 		
 ]
