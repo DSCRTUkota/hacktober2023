@@ -151,6 +151,11 @@
 	"description": "Chaos Coordinator @ GDSC FETJU"
     },
   {
+	 "name" : "GDSC FET JU",
+	 "github" : "gdsc-fetju",
+	 "twitter" : "gdscfetju" 
+    },
+    {
         "name": "Danish Mobiya",
         "github": "dakshmobiya12",
         "twitter": "DanishMobiya",
