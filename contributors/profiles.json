@@ -199,6 +199,13 @@
         "twitter" : "virejdasani",
         "linkedin": "virej-dasani-b64470209",
         "description": "Full Stack Developer"
+    },{
+        "name": "Abhijeet Roy",
+        "github":  "RoyGalaxy",
+        "linkedin": "abhijeetroy11",
+        "twitter": "_RoyGalaxy",
+        "portfolio": "https://roygalaxy-portfolio.cyclic.app",
+        "description": "Full Stack Developer"
     }
 		
 ]
