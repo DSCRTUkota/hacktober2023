@@ -6,7 +6,7 @@
         "twitter": "pushkaryadavin",
         "linkedin": "pushkarydv",
         "portfolio": "https://pushkaryadav.in",
-        "description": "Dev | Lead GDSC-RTU"
+        "description": "Dev | Lead GDSC RTU"
     },
     {
         "name": "Tushar Choudhary",
@@ -145,7 +145,18 @@
         "linkedin": "pranay-kalyanam-22bb9b176",
         "description": "Front-End Developer"
   },
-  {
+
+    {
+	 "name" : "DSC",
+	 "github" : "dscrtukota",
+	 "twitter" : "dsc_rtu"
+    },
+    {
+	 "name" : "GDSC FET JU",
+	 "github" : "gdsc-fetju",
+	 "twitter" : "gdscfetju" 
+    },
+
         "name": "Danish Mobiya",
         "github": "dakshmobiya12",
         "twitter": "DanishMobiya",
@@ -215,6 +226,10 @@
         "twitter" : "virejdasani",
         "linkedin": "virej-dasani-b64470209",
         "description": "Full Stack Developer"
+    },
+    {
+       "name" : "Raksha P",
+       "github" : "RP2025",
+       "twitter" : "philomath128"
     }
-		
 ]
