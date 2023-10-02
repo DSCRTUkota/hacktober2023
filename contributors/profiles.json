@@ -138,13 +138,45 @@
         "linkedin": "sahil-arora-472415209",
         "description": "Flutter and ML Enthusiast"
     },
+  {
+	"name": "Kalyanam Pranay",
+        "github": "PranayKalyanam",
+        "twitter": "KalyanamPr58962",
+        "linkedin": "pranay-kalyanam-22bb9b176",
+        "description": "Front-End Developer"
+  },
+
     {
-        "name": "Danish Mobiya",
+	 "name" : "DSC",
+	 "github" : "dscrtukota",
+	 "twitter" : "dsc_rtu"
+
+    },
+	{
+        "name": "Om Mishra",
+        "github": "om-mishra7",
+        "twitter": "om_mishra7",
+        "linkedin": "om-mishra7",
+        "portfolio": "https://projectrexa.dedyn.io/",
+        "description": "Budding Full Stack Developer"
+
+  },
+  {
+        "name" : "Atharva Deshmukh",
+        "github" : "Atharva Deshmukh0909"
+   },
+   {
+       "name" : "GDSC FET JU",
+       "github" : "gdsc-fetju",
+       "twitter" : "gdscfetju" 
+  },
+  {   
+	      "name": "Danish Mobiya",
         "github": "dakshmobiya12",
         "twitter": "DanishMobiya",
         "linkedin": "danish-mobiya-9343971b8",
         "description": "Android developer and hacker"
-    },
+  },
 	{
         "name": "Utkarsh kesharwani",
         "github": "utkars3",
@@ -209,12 +241,19 @@
         "linkedin": "virej-dasani-b64470209",
         "description": "Full Stack Developer"
     },
+  
     {
+
         "name" : "Siddhanta Acharya",
         "github" : "siddhu12980",
         "twitter" : "@AchSiddhanta",
         "linkdedin" : "Siddhanta Acharya",
         "description" : "Flutter Enthusiast"
+    },
+  {
+       "name" : "Raksha P",
+       "github" : "RP2025",
+       "twitter" : "philomath128"
+
     }
-		
 ]
