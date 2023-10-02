@@ -231,5 +231,12 @@
        "name" : "Raksha P",
        "github" : "RP2025",
        "twitter" : "philomath128"
+    },
+    {
+        "name" : "Harshal Jain",
+        "github" : "Harshaljain04",
+        "instagram" : "hi.harshal",
+        "linkedin": "harshal-jain-42b51423b",
+        "description": "Aspiring Full Stack Developer"
     }
 ]
