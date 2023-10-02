@@ -14,6 +14,7 @@
         "linkedin": "tushar-c23",
 	"description": "Lead GDSC-JNU"
     },
+
     {
         "name": "Devanshi Mohan",
         "twitter": "devansshhhiiii",
@@ -40,6 +41,13 @@
         "github": "xoshiraghavx",
         "linkedin": "oshiraghav",
 	"description": "Lead GDSC-GBU"
+    }, 
+    {
+        "name": "Anurag Shrivastava",
+        "twitter": "shriv_anurag",
+        "github": "Shrivastava-Anurag",
+        "linkedin": "shriv_anurag",
+	"description": "Lead GDSC-RCET"
     },
     {
         "name": "Chandana Yalaka",
@@ -62,21 +70,79 @@
         "linkedin": "keshavjindal14",
         "description": "Backend End Developer"
     },
-
-    
     {
         "name": "Mukul Rana",
         "github": "mukulpythondev",
         "linkedin": "mukul-webdev",
         "portfolio": "https://mukul-rana.netlify.app/",
         "description": "Front End Developer"
-=======
+    },
     {
         "name": "Harsh Shukla",
         "github": "harshhgithub",
         "twitter": "harshhshuklaa",
         "linkedin": "harshshukla11",
         "description": "Full Stack Developer"
-
+    },
+    {
+        "name": "Anish Araz",
+        "github": "anisharaz",
+        "twitter": "AnishAraz",
+        "linkedin": "anisharaz",
+        "description": "Network & Backend Enthusiast"
+    },
+    {
+        "name": "Shail Patel",
+        "github": "shail-patel-321",
+        "twitter": "shailpatel1794",
+        "linkdedin": "shailpatel",
+        "description": "Full Stack Developer"
+    },
+    {
+        "name": "Romar Desabille",
+        "github": "romar22",
+        "twitter": "romar01x",
+        "linkdedin": "Romar Desabille",
+        "description": "Frontend Developer"
+   },
+   {
+        "name":"Sruthik Koneti",
+        "github":"sruthikkoneti",
+        "linkedin":"sruthik-koneti",
+        "twitter":"sruthik042",
+        "description":"Full Stack Developer"
+    },
+    {
+        "name": "Sahil Arora",
+        "github": "TSxSAHIL",
+        "twitter": "tssahil2001",
+        "linkedin": "sahil-arora-472415209",
+        "description": "Flutter and ML Enthusiast"
+    },
+    {
+       "name": "Jayesh Mehta",
+       "github": "Jayesh3502",
+       "Linkedin": "jayesh-mehta03052002",
+       "portfolio": "https://jayesh3502.github.io/portfolio.github.io/",
+       "description": "Frontend-Developer"
+    },
+    {
+        "name": "Thanish C",
+        "github": "heytanix",
+        "twitter": "heytanix",
+        "linkdedin": "heytanix",
+        "description": "AI & ML Enthusiast"
+    },
+    {
+       "name" : "DSC RTU",
+       "github" : "dscrtukota",
+       "twitter" : "dsc_rtu"
+    },
+    {
+        "name" : "Virej Dasani",
+        "github" : "virejdasani",
+        "twitter" : "virejdasani",
+        "linkedin": "virej-dasani-b64470209",
+        "description": "Full Stack Developer"
     }
 ]
