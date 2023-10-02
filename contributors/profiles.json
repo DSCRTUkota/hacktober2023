@@ -7,7 +7,7 @@
         "portfolio": "https://pushkaryadav.in",
         "description": "Dev | Lead GDSC-RTU"
     },
-	  {
+    {
         "name": "Tushar Choudhary",
         "github": "tushar-c23",
         "twitter": "tushar_c_",
@@ -85,6 +85,15 @@
         "description": "Full Stack Developer"
     },
     {
+      
+        "name": "Ashwin V Kumar",
+        "github": "github-ashwin",
+        "twitter": "callmeashwin",
+        "linkedin": "Ashwin V Kumar",
+        "description": "Full-Stack Web Developer",
+        "portfolio": "https://bit.ly/ppfl-ashwin"
+    },
+   {
         "name": "Anish Araz",
         "github": "anisharaz",
         "twitter": "AnishAraz",
@@ -111,7 +120,16 @@
         "linkedin":"sruthik-koneti",
         "twitter":"sruthik042",
         "description":"Full Stack Developer"
-    },
+
+   },
+   {
+    "name":"Tejas Bhovad",
+    "github":"TejasBhovad",
+    "linkedin":"tejas-bhovad",
+    "twitter":"tejas_bhovad",
+    "description":"Tailwind and NextJS Dev",
+    "portfolio":"https://tejasbhovad.vercel.app"
+ },
     {
         "name": "Sahil Arora",
         "github": "TSxSAHIL",
@@ -119,7 +137,29 @@
         "linkedin": "sahil-arora-472415209",
         "description": "Flutter and ML Enthusiast"
     },
+  {
+        "name": "Surya Kanta Ghosh",
+        "github": "atnakayrus",
+        "linkedin": "surya-kanta-ghosh-68611a232",
+        "description": "Android Developer",
+	"portfolio":"https://atnakayrus.github.io/"
+  },
+  {
+        "name": "Kartikay",
+        "github": "kartikay-kc",
+        "twitter": "kartikay_kc",
+        "linkedin": "Kartikay Teotia",
+        "description": "Front End Developer"
+    },
     {
+
+        "name": "Muhammad Anus",
+        "twitter": "anasafzal779",
+        "github": "Muhammad-Anus-Developer",
+        "linkedin": "muhammed-anus",
+        "description": "Full Stack Developer"
+    },
+   {
        "name": "Jayesh Mehta",
        "github": "Jayesh3502",
        "Linkedin": "jayesh-mehta03052002",
@@ -132,11 +172,6 @@
         "twitter": "heytanix",
         "linkdedin": "heytanix",
         "description": "AI & ML Enthusiast"
-    },
-    {
-       "name" : "DSC RTU",
-       "github" : "dscrtukota",
-       "twitter" : "dsc_rtu"
     },
     {
         "name" : "Virej Dasani",
