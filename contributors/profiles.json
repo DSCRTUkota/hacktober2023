@@ -122,5 +122,12 @@
 	 "name" : "DSC",
 	 "github" : "dscrtukota",
 	 "twitter" : "dsc_rtu"
+    },
+    {
+        "name" : "Virej Dasani",
+        "github" : "virejdasani",
+        "twitter" : "virejdasani",
+        "linkedin": "virej-dasani-b64470209",
+        "description": "Full Stack Developer"
     }
 ]
