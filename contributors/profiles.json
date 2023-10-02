@@ -150,19 +150,23 @@
 	 "name" : "DSC",
 	 "github" : "dscrtukota",
 	 "twitter" : "dsc_rtu"
-    },
-    {
-	 "name" : "GDSC FET JU",
-	 "github" : "gdsc-fetju",
-	 "twitter" : "gdscfetju" 
-    },
-    {   
-	"name": "Danish Mobiya",
+  },
+  {
+        "name" : "Atharva Deshmukh",
+        "github" : "Atharva Deshmukh0909"
+   },
+   {
+       "name" : "GDSC FET JU",
+       "github" : "gdsc-fetju",
+       "twitter" : "gdscfetju" 
+  },
+  {   
+	      "name": "Danish Mobiya",
         "github": "dakshmobiya12",
         "twitter": "DanishMobiya",
         "linkedin": "danish-mobiya-9343971b8",
         "description": "Android developer and hacker"
-    },
+  },
 	{
         "name": "Utkarsh kesharwani",
         "github": "utkars3",
@@ -231,5 +235,6 @@
        "name" : "Raksha P",
        "github" : "RP2025",
        "twitter" : "philomath128"
+
     }
 ]
