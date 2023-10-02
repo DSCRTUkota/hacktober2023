@@ -7,7 +7,7 @@
         "portfolio": "https://pushkaryadav.in",
         "description": "Dev | Lead GDSC-RTU"
     },
-	  {
+    {
         "name": "Tushar Choudhary",
         "github": "tushar-c23",
         "twitter": "tushar_c_",
@@ -138,6 +138,12 @@
         "description": "Flutter and ML Enthusiast"
     },
     {
+        "name": "Muhammad Anus",
+        "twitter": "anasafzal779",
+        "github": "Muhammad-Anus-Developer",
+        "linkedin": "muhammed-anus",
+        "description": "Full Stack Developer"
+    },
        "name": "Jayesh Mehta",
        "github": "Jayesh3502",
        "Linkedin": "jayesh-mehta03052002",
@@ -150,11 +156,6 @@
         "twitter": "heytanix",
         "linkdedin": "heytanix",
         "description": "AI & ML Enthusiast"
-    },
-    {
-       "name" : "DSC RTU",
-       "github" : "dscrtukota",
-       "twitter" : "dsc_rtu"
     },
     {
         "name" : "Virej Dasani",
