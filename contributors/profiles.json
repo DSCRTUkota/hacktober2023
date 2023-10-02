@@ -138,8 +138,26 @@
         "linkedin": "sahil-arora-472415209",
         "description": "Flutter and ML Enthusiast"
     },
+  {
+	"name": "Kalyanam Pranay",
+        "github": "PranayKalyanam",
+        "twitter": "KalyanamPr58962",
+        "linkedin": "pranay-kalyanam-22bb9b176",
+        "description": "Front-End Developer"
+  },
+
     {
-        "name": "Danish Mobiya",
+	 "name" : "DSC",
+	 "github" : "dscrtukota",
+	 "twitter" : "dsc_rtu"
+    },
+    {
+	 "name" : "GDSC FET JU",
+	 "github" : "gdsc-fetju",
+	 "twitter" : "gdscfetju" 
+    },
+    {   
+	"name": "Danish Mobiya",
         "github": "dakshmobiya12",
         "twitter": "DanishMobiya",
         "linkedin": "danish-mobiya-9343971b8",
@@ -214,5 +232,9 @@
         "github": "Kartik1165",
         "linkdedin": "Kartik-maheshwari11",
         "description": "GDSC Member"
-    }		
+    },		
+       "name" : "Raksha P",
+       "github" : "RP2025",
+       "twitter" : "philomath128"
+    }
 ]
