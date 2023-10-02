@@ -208,6 +208,13 @@
         "twitter" : "virejdasani",
         "linkedin": "virej-dasani-b64470209",
         "description": "Full Stack Developer"
+    },
+    {
+        "name": "Harsh Vardhan Pandey",
+        "github": "geekyharsh05",
+        "twitter": "HarshVa82884493",
+        "linkdedin": "harsh-vardhan-pandey-8180a5219",
+        "portfolio": "https://aboutharsh.vercel.app",
+        "description":"Open Source & Backend Enthusiast"
     }
-		
 ]
