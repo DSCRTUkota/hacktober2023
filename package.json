@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "message-gator": "^1.0.6",
-    "next": "latest",
+    "next": "^13.5.3",
     "react": "latest",
     "react-dom": "latest",
     "react-icons": "^4.11.0"
