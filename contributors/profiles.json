@@ -231,5 +231,10 @@
        "name" : "Raksha P",
        "github" : "RP2025",
        "twitter" : "philomath128"
+    },
+    {
+	"name" : "Panshul P Sarma",
+        "github" : "reigen002",
+	 "description" : "AI & ML Enthusiast"   
     }
 ]
