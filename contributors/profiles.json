@@ -246,5 +246,12 @@
        "github" : "RP2025",
        "twitter" : "philomath128"
 
+    },
+	    {
+        "name" : "Daksh Sharma",
+        "github" : "daksh20031231",
+        "twitter" : "daksh20031231",
+        "linkedin": "www.linkedin.com/in/dakshsharma20031231",
+        "description": "Full Stack Developer"
     }
 ]
