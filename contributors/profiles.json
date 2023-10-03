@@ -245,6 +245,13 @@
        "name" : "Raksha P",
        "github" : "RP2025",
        "twitter" : "philomath128"
-
+    },
+    {
+        "name": "Vivek Rawat",
+        "github": "vivekrawat21",
+        "twitter": "Vivekra211",
+        "linkedin": "Vivek Rawat",
+        "portfolio": "https://pushkaryadav.in",
+        "description": "Full Stack Developer"
     }
 ]
