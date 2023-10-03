@@ -30,7 +30,9 @@ Here is a quick and painless way to contribute to this project:
 
 ## Repo maintainers
 
-[`Pushkar Yadav`](https://github.com/pushkarydv)  
+[`Pushkar Yadav`](https://github.com/pushkarydv)
+[`Oshi Raghav`](https://github.com/xoshiraghavx)
+[`Raksha Pahariya`](https://github.com/RP2025)
 
 ## GDSC Partners
 
