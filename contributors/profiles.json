@@ -246,5 +246,12 @@
        "github" : "RP2025",
        "twitter" : "philomath128"
 
+    },
+    {
+        "name" : "Mayank Mehra",
+        "github" : "Mynkmhra1",
+        "twitter" : "mynkmhra",
+        "linkedin": "mayank-mehra-a0a8bb218",
+        "description": "Google-DSC PR Lead (DBUU)"
     }
 ]
