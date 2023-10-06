@@ -30,7 +30,9 @@ Here is a quick and painless way to contribute to this project:
 
 ## Repo maintainers
 
-[`Pushkar Yadav`](https://github.com/pushkarydv)  
+[`Pushkar Yadav`](https://github.com/pushkarydv)
+[`Oshi Raghav`](https://github.com/xoshiraghavx)
+[`Raksha Pahariya`](https://github.com/RP2025)
 
 ## GDSC Partners
 
@@ -41,3 +43,4 @@ Here is a quick and painless way to contribute to this project:
 [`GDSC ACEM`](https://gdsc.community.dev/jawaharlal-nehru-university-delhi/)
 [`GDSC RCET`](https://gdsc.community.dev/jawaharlal-nehru-university-delhi/)
 [`GDSC FETJU`](https://gdsc.community.dev/fet-jain-university-bengaluru/)
+[`GDSC IIEST`](https://gdsc.community.dev/indian-institute-of-engineering-science-and-technology-shibpur-howrah/)
