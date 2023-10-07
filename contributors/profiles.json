@@ -246,5 +246,12 @@
        "github" : "RP2025",
        "twitter" : "philomath128"
 
-    }
+    },
+    {
+        "name": "Tarun Nayaka R",
+        "github": "Rtarun3606k",
+        "Linkedin": "tarunnayakar",
+        "portfolio": "https://my-portfolio.tarunnayaka.repl.co/index.html",
+        "description": "full-stack-Developer"
+     }
 ]
