@@ -28,12 +28,6 @@ Here is a quick and painless way to contribute to this project:
 
 * Congrats! You have made a Pull Request and we will be merging it with the main branch soon.
 
-## Repo maintainers
-
-[`Pushkar Yadav`](https://github.com/pushkarydv)
-[`Oshi Raghav`](https://github.com/xoshiraghavx)
-[`Raksha Pahariya`](https://github.com/RP2025)
-
 ## GDSC Partners
 
 [`GDSC RTU`](https://gdsc.community.dev/rajasthan-technical-university-kota/)
