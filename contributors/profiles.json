@@ -245,6 +245,12 @@
        "name" : "Raksha P",
        "github" : "RP2025",
        "twitter" : "philomath128"
-
+    },
+    {
+	"name": "Sunpreet Singh",
+        "github": "sun-28",
+        "twitter": "sun-28",
+        "linkdedin": "Sunpreet Singh",
+        "description": "Full Stack Developer"	    
     }
 ]
