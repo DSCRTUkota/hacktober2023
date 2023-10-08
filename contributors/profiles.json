@@ -246,5 +246,12 @@
        "github" : "RP2025",
        "twitter" : "philomath128"
 
-    }
+    },
+    {
+	"name": "Samarpreet Singh",
+	"github": "XxPython28xX",
+	"twitter": "sam_28",
+	"linkedin": "Samarpreet Singh",
+	"description": "Full Stack Dev"
+    },
 ]
