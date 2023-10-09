@@ -10,7 +10,7 @@ export default function RenderProfiles() {
   // Sample JSON data to cosntruct a profile card
 
   // const profileData = {
-  //   name: 'Pushkar Yadav',
+  //   name: 'Md Faiz Alam',
   //   description: 'Dev | Lead @GDSC-RTU',
   //   github: 'pushkarydv',
   //   twitter: 'pushkaryadavin',
