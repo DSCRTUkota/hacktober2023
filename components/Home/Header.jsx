@@ -13,10 +13,10 @@ function Header() {
   }
 
   return (
-    <div className='flex flex-col justify-center items-center py-[10vh]'>
-      <div className='text-2xl font-semibold text-center'>Contributor Profiles</div>
+    <div className='flex flex-col justify-center items-center py-16 bg-gradient-to-b from-purple-500 to-indigo-500 text-white mb-10'>
+      <div className='text-5xl font-extrabold text-center'>Contributor Profiles</div>
       
-      <div className='text-base mt-2 text-center'>
+      <div className='text-xl text-center'>
         We ❤️ Open Source, Let&apos;s make your first contribution today! <br />{' '}
       </div>
       <button className='flex flex-row justify-center items-center mt-2 gap-2 py-1 px-3 rounded-lg bg-sky-300 outline-2 outline-sky-600 border-none text-sky-950 font-semibold transition-all' onClick={toggleInstructions}>
