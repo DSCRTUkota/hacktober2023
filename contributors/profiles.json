@@ -246,5 +246,13 @@
        "github" : "RP2025",
        "twitter" : "philomath128"
 
-    }
+    },
+    {
+        "name": "Sourav Kumar Agarwal",
+        "github": "souravkagarwal",
+        "twitter": "souravk_agarwal",
+        "linkedin": "souravkragarwal",
+        "portfolio": "https://itsska.vercel.app",
+        "description": "Full Stack Developer"
+    },
 ]
