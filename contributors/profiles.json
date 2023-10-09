@@ -150,16 +150,6 @@
 	 "name" : "DSC",
 	 "github" : "dscrtukota",
 	 "twitter" : "dsc_rtu"
-
-    },
-	{
-        "name": "Om Mishra",
-        "github": "om-mishra7",
-        "twitter": "om_mishra7",
-        "linkedin": "om-mishra7",
-        "portfolio": "https://projectrexa.dedyn.io/",
-        "description": "Budding Full Stack Developer"
-
   },
   {
         "name" : "Atharva Deshmukh",
@@ -225,6 +215,12 @@
        "github": "Jayesh3502",
        "Linkedin": "jayesh-mehta03052002",
        "portfolio": "https://jayesh3502.github.io/portfolio.github.io/",
+       "description": "Frontend-Developer"
+    },
+	{
+       "name": "Abhijay Srivastva",
+       "github": "Abhi1905",
+       "Linkedin": "abhijaysrivastava25",
        "description": "Frontend-Developer"
     },
     {
