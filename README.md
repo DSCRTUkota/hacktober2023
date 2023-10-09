@@ -14,6 +14,15 @@ Here is a quick and painless way to contribute to this project:
 
 * You can also star this repository to show appreciation.
 
+
+## How to get started with this project.
+
+* Clone this repository to your local machine using the following command `git clone url`.
+* Create new branch `git checkout BranchName`.
+* Add your profile in `contributors/profiles.json` .
+* install npm evironment run `npm install`
+* To run this code `npm run dev`
+
 ## How to make a Pull Request?
 
 * Fork this repository to your GitHub account by clicking on the Fork button on the top right corner of this page.
