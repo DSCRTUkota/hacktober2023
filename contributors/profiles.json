@@ -246,5 +246,12 @@
        "github" : "RP2025",
        "twitter" : "philomath128"
 
-    }
+    },
+    {
+        "name": "Kavindu Chethani",
+        "github": "kavindu-chethani",
+        "Linkedin": "kavindu-chethani",
+        "portfolio": "https://kavindu-chethani.vercel.app/",
+        "description": "QA Automation Engineer"
+     }
 ]
