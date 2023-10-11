@@ -246,5 +246,12 @@
        "github" : "RP2025",
        "twitter" : "philomath128"
 
+    },
+    {
+        "name" : "Harmanpreet Singh",
+        "github" : "HarmanPreet-Singh-XYT",
+        "twitter" : "preetsinghharma",
+        "linkedin": "harmanpreet-singh-xyt",
+        "description": "Full Stack Developer"
     }
 ]
