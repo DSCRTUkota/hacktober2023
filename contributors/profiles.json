@@ -246,5 +246,10 @@
        "github" : "RP2025",
        "twitter" : "philomath128"
 
+    },
+    {
+       "name" : "Harshal Yadav",
+       "github" : "Harshalyadav",
+       "description": "Full Stack Developer and Desktop App Developer"
     }
 ]
