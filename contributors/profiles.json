@@ -246,5 +246,12 @@
        "github" : "RP2025",
        "twitter" : "philomath128"
 
+    },
+	{
+       "name" : "Rehan Ashraf",
+       "github" : "naher-farhsa",
+       "linkedin" : "www.linkedin.com/in/naher-farhsa",
+       "hackerrank" :"ashrafrehan543",
+       "description" :"Java developer"
     }
 ]
