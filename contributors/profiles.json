@@ -1,5 +1,4 @@
 [
-    
     {
         "name": "Pushkar Yadav",
         "github": "pushkarydv",
@@ -13,49 +12,49 @@
         "github": "tushar-c23",
         "twitter": "tushar_c_",
         "linkedin": "tushar-c23",
-	"description": "Dev | Lead GDSC-JNU"
+        "description": "Dev | Lead GDSC-JNU"
     },
 
     {
         "name": "Devanshi Mohan",
         "twitter": "devansshhhiiii",
         "linkedin": "devanshi-mohan-425240267",
-	"description": "Lead GDSC-ACEM"
+        "description": "Lead GDSC-ACEM"
     },
     {
         "name": "Prince Gupta",
         "twitter": "pr1ncegupta",
         "github": "pr1ncegupta",
         "linkedin": "pr1ncegupta",
-	"description": "Lead GDSC-FETJU"
+        "description": "Lead GDSC-FETJU"
     },
     {
         "name": "Nikhil Shuklaa",
         "twitter": "Nikhil_shuklaa",
         "github": "nikhil-shuklaa",
         "linkedin": "nikhil-shuklaa",
-	"description": "Lead GDSC-SDIET"
+        "description": "Lead GDSC-SDIET"
     },
     {
         "name": "Oshi Raghav",
         "twitter": "xoshiraghavx",
         "github": "xoshiraghavx",
         "linkedin": "oshiraghav",
-	"description": "Lead GDSC-GBU"
-    }, 
+        "description": "Lead GDSC-GBU"
+    },
     {
         "name": "Anurag Shrivastava",
         "twitter": "shriv_anurag",
         "github": "Shrivastava-Anurag",
         "linkedin": "shriv_anurag",
-	"description": "Lead GDSC-RCET"
+        "description": "Lead GDSC-RCET"
     },
     {
         "name": "Chandana Yalaka",
         "github": "CHANDANA333",
         "twitter": "@CYalaka",
         "linkedin": "Chandana Yalaka",
-        "description": "Front End Developer" 
+        "description": "Front End Developer"
     },
     {
         "name": "Suket Kamboj",
@@ -86,7 +85,6 @@
         "description": "Full Stack Developer"
     },
     {
-      
         "name": "Ashwin V Kumar",
         "github": "github-ashwin",
         "twitter": "callmeashwin",
@@ -94,7 +92,7 @@
         "description": "Full-Stack Web Developer",
         "portfolio": "https://bit.ly/ppfl-ashwin"
     },
-   {
+    {
         "name": "Anish Araz",
         "github": "anisharaz",
         "twitter": "AnishAraz",
@@ -114,23 +112,22 @@
         "twitter": "romar01x",
         "linkdedin": "Romar Desabille",
         "description": "Frontend Developer"
-   },
-   {
-        "name":"Sruthik Koneti",
-        "github":"sruthikkoneti",
-        "linkedin":"sruthik-koneti",
-        "twitter":"sruthik042",
-        "description":"Full Stack Developer"
-
-   },
-   {
-    "name":"Tejas Bhovad",
-    "github":"TejasBhovad",
-    "linkedin":"tejas-bhovad",
-    "twitter":"tejas_bhovad",
-    "description":"Tailwind and NextJS Dev",
-    "portfolio":"https://tejasbhovad.vercel.app"
- },
+    },
+    {
+        "name": "Sruthik Koneti",
+        "github": "sruthikkoneti",
+        "linkedin": "sruthik-koneti",
+        "twitter": "sruthik042",
+        "description": "Full Stack Developer"
+    },
+    {
+        "name": "Tejas Bhovad",
+        "github": "TejasBhovad",
+        "linkedin": "tejas-bhovad",
+        "twitter": "tejas_bhovad",
+        "description": "Tailwind and NextJS Dev",
+        "portfolio": "https://tejasbhovad.vercel.app"
+    },
     {
         "name": "Sahil Arora",
         "github": "TSxSAHIL",
@@ -138,61 +135,59 @@
         "linkedin": "sahil-arora-472415209",
         "description": "Flutter and ML Enthusiast"
     },
-  {
-	"name": "Kalyanam Pranay",
+    {
+        "name": "Kalyanam Pranay",
         "github": "PranayKalyanam",
         "twitter": "KalyanamPr58962",
         "linkedin": "pranay-kalyanam-22bb9b176",
         "description": "Front-End Developer"
-  },
+    },
 
     {
-	 "name" : "DSC",
-	 "github" : "dscrtukota",
-	 "twitter" : "dsc_rtu"
-
+        "name": "DSC",
+        "github": "dscrtukota",
+        "twitter": "dsc_rtu"
     },
-	{
+    {
         "name": "Om Mishra",
         "github": "om-mishra7",
         "twitter": "om_mishra7",
         "linkedin": "om-mishra7",
         "portfolio": "https://projectrexa.dedyn.io/",
         "description": "Budding Full Stack Developer"
-
-  },
-  {
-        "name" : "Atharva Deshmukh",
-        "github" : "Atharva Deshmukh0909"
-   },
-   {
-       "name" : "GDSC FET JU",
-       "github" : "gdsc-fetju",
-       "twitter" : "gdscfetju" 
-  },
-  {   
-	      "name": "Danish Mobiya",
+    },
+    {
+        "name": "Atharva Deshmukh",
+        "github": "Atharva Deshmukh0909"
+    },
+    {
+        "name": "GDSC FET JU",
+        "github": "gdsc-fetju",
+        "twitter": "gdscfetju"
+    },
+    {
+        "name": "Danish Mobiya",
         "github": "dakshmobiya12",
         "twitter": "DanishMobiya",
         "linkedin": "danish-mobiya-9343971b8",
         "description": "Android developer and hacker"
-  },
-	{
+    },
+    {
         "name": "Utkarsh kesharwani",
         "github": "utkars3",
         "twitter": "utkarsh",
         "linkedin": "utkars3",
         "portfolio": "https://utkars3.github.io/BIO/",
         "description": "Full stack developer"
-	},
-  {
+    },
+    {
         "name": "Surya Kanta Ghosh",
         "github": "atnakayrus",
         "linkedin": "surya-kanta-ghosh-68611a232",
         "description": "Android Developer",
-	"portfolio":"https://atnakayrus.github.io/"
-  },
-  {
+        "portfolio": "https://atnakayrus.github.io/"
+    },
+    {
         "name": "Kartikay",
         "github": "kartikay-kc",
         "twitter": "kartikay_kc",
@@ -200,11 +195,11 @@
         "description": "Front End Developer"
     },
     {
-	"name": "Mohammad Sahil",
-	"github": "mdsahilnoob",
-	"twitter": "mdsahil_noob",
-	"linkedin": "md-sahil-3917b4284",
-	"description": "Open Source Enthusiast"
+        "name": "Mohammad Sahil",
+        "github": "mdsahilnoob",
+        "twitter": "mdsahil_noob",
+        "linkedin": "md-sahil-3917b4284",
+        "description": "Open Source Enthusiast"
     },
     {
         "name": "K M Mohan",
@@ -213,19 +208,19 @@
         "linkedin": "Mohan-K-M",
         "description": "ML Enthusiast"
     },
-  {
+    {
         "name": "Muhammad Anus",
         "twitter": "anasafzal779",
         "github": "Muhammad-Anus-Developer",
         "linkedin": "muhammed-anus",
         "description": "Full Stack Developer"
     },
-   {
-       "name": "Jayesh Mehta",
-       "github": "Jayesh3502",
-       "Linkedin": "jayesh-mehta03052002",
-       "portfolio": "https://jayesh3502.github.io/portfolio.github.io/",
-       "description": "Frontend-Developer"
+    {
+        "name": "Jayesh Mehta",
+        "github": "Jayesh3502",
+        "Linkedin": "jayesh-mehta03052002",
+        "portfolio": "https://jayesh3502.github.io/portfolio.github.io/",
+        "description": "Frontend-Developer"
     },
     {
         "name": "Thanish C",
@@ -235,16 +230,21 @@
         "description": "AI & ML Enthusiast"
     },
     {
-        "name" : "Virej Dasani",
-        "github" : "virejdasani",
-        "twitter" : "virejdasani",
+        "name": "Virej Dasani",
+        "github": "virejdasani",
+        "twitter": "virejdasani",
         "linkedin": "virej-dasani-b64470209",
         "description": "Full Stack Developer"
     },
     {
-       "name" : "Raksha P",
-       "github" : "RP2025",
-       "twitter" : "philomath128"
-
+        "name": "Raksha P",
+        "github": "RP2025",
+        "twitter": "philomath128"
+    },
+    {
+        "name": "Jaimin Chovatia",
+        "github": "Jaimin25",
+        "twitter": "jaimin_chovatia",
+        "linkedin": "jaimin-chovatia-63a8ab255"
     }
 ]
