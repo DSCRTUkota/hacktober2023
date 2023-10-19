@@ -16,15 +16,22 @@ Here is a quick and painless way to contribute to this project:
 
 ## How to make a Pull Request?
 
-* Fork this repository to your GitHub account by clicking on the Fork button on the top right corner of this page.
+* Fork this repository to your GitHub account: Click on the Fork button on the top right corner of this page to create a copy of the repository in your GitHub account.
 
-* Clone the forked repository to your local machine using `git clone GIT-URL` command in git.
+* Clone the forked repository to your local machine: Use the following command in Git to clone the repository to your local machine:
+COMMAND: git clone GIT-URL
+NOTE: Replace GIT-URL with the actual URL of your forked repository.
 
-* Add your profile data to the `contributors/profiles.json` file.
+* Add your profile data: Navigate to the 'contributors/profiles.json' file in your local repository. Add your profile data following the specified format.
 
-* Commit your changes using `git commit -m COMMIT-MESSAGE` command in git.
+* Commit your changes: Stage the changes and commit them using the following commands:
+COMMANDS: git commit -m "Add profile data for [Your Name]"
+NOTE: Replace [Your Name] with your actual name.
 
-* Create a pull request by clicking on the Pull Request button on the top of your repository page.
+* Push your changes to your GitHub repository: Use the following command to push your committed changes to your GitHub repository:
+COMMAND: git push
+
+* Create a Pull Request (PR): Go to your forked repository on GitHub. Click on the "Pull Request" button at the top of your repository page. Provide a descriptive title and comment for your Pull Request, and then click "Create Pull Request" to submit it.
 
 * Congrats! You have made a Pull Request and we will be merging it with the main branch soon.
 
